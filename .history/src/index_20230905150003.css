@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-addToCart{
+padding: 7,
+                                            borderRadius: 5,
+                                            border: "1px solid #adadad",
+                                            width: "100%",
+                                            backgroundColor: "#000",
+                                            color: "#fff", zIndex: 999
+}
+                                     
+                                            
+                           
